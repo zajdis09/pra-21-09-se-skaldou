@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("Zelena je trave, karabnova mama");
         System.out.println("dalsi zmena");
+        System.out.println("Zajda ten kilk udalal");
     }
 }
